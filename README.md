@@ -31,7 +31,7 @@ language-translator/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/rechinthalavinay-cloud/CodeAlpha_Language_Translator.git
+git clone https://github.com/rechinthalavinay-cloud/Language_Translator.git
 ```
 
 ### 2. Navigate to the project folder
@@ -67,14 +67,6 @@ http://localhost:8501
 - Enter the text to translate.
 - Click the **Translate** button.
 - View the translated output instantly.
-
-## 📷 Project Screenshot
-
-Add a screenshot of your Language Translator interface here.
-
-## 🎯 Internship Task
-
-This project was developed as part of the **CodeAlpha Python Programming Internship**.
 
 ## 👨‍💻 Author
 
